@@ -1,13 +1,25 @@
-# README
-## This is the README for your extension "google-colab-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Google Colab Dark Theme for VSCode
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+This is a Visual Studio Code theme that was made inspired on the color palette of Google Colab Dark theme.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+As a student, since i don't have a good GPU, i have spent too much time on Google Colab training my machine learning models with the amazing library Tensorflow. I really like colab's theme because it focuses on simplicity and also doesn't have a negative impact in my concentration or strain in eyes. For this reason, I always turn the Dark theme on.
 
-**Enjoy!**
+
+## **Pictures!**
+
+This theme has been tested on only five languages since they are the only ones i know. I tried to port the colab experience to other languages as well. You can submit any issues with them i will always read them!
+
+### Python:
+![Python](img/python.png)
+
+### JavaScript:
+![JavaScript](img/javascript.png)
+
+### Golang:
+![GoLang](img/golang.png)
+
+### C++:
+![C++](img/cpp.png)
+
+### Java:
+![C++](img/java.png)

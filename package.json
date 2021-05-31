@@ -1,20 +1,44 @@
 {
     "name": "google-colab-theme",
-    "displayName": "google-colab-theme",
-    "description": "Google Colab Theme for VS Code",
+    "displayName": "Google Colab Dark Theme",
+    "description": "Google Colab Dark Theme for VS Code",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.56.0"
     },
+	"publisher": "renxzen",
+    "bugs": {
+        "url": "https://github.com/renxzen/googleColabTheme/issues"
+    },
+    "homepage": "https://github.com/renxzen/googleColabTheme",
+	"repository": {
+        "type": "git",
+        "url": "https://github.com/renxzen/googleColabTheme.git"
+    },
+    "author": {
+        "name": "Renzo Mondragón"
+    },
     "categories": [
         "Themes"
     ],
+	"keywords": [
+        "google",
+		"colab",
+        "theme",
+        "renxzen",
+		"dark"
+    ],
+	"icon": "img/logo.png",
+    "galleryBanner": {
+        "color": "#272822",
+        "theme": "dark"
+    },
     "contributes": {
         "themes": [
             {
-                "label": "Google Colab Theme",
+                "label": "Google Colab Dark Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Google Colab Theme-color-theme.json"
+                "path": "./themes/Google-Colab-Theme-color-theme.json"
             }
         ]
     }
