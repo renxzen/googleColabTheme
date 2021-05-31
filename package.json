@@ -1,0 +1,21 @@
+{
+    "name": "google-colab-theme",
+    "displayName": "google-colab-theme",
+    "description": "Google Colab Theme for VS Code",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Google Colab Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Google Colab Theme-color-theme.json"
+            }
+        ]
+    }
+}
