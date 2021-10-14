@@ -5,6 +5,7 @@
 //   #d4d4d4 (editor foreground)
 {
 	"type": "dark",
+	// "semanticHighlighting": true,
 	"colors": {
 		"dropdown.background": "#383838",
 		"list.activeSelectionBackground": "#525252",
