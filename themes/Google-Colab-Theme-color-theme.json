@@ -254,5 +254,14 @@
 				"foreground": "#525252"
 			}
 		},
+		{
+			"name": "CYAN",
+			"scope": [
+				// "meta.attribute.python",
+			],
+			"settings": {
+				"foreground": "#4ec9b0"
+			},
+		},
 	]
 }
