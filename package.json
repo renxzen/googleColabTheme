@@ -2,7 +2,7 @@
     "name": "google-colab-theme",
     "displayName": "Google Colab Dark Theme",
     "description": "Google Colab Dark Theme for VS Code",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.56.0"
     },
