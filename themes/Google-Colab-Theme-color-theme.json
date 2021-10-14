@@ -160,6 +160,7 @@
 				"markup.changed",
 				"entity.name.filename.find-in-files",
 				"markup.list",
+				"support.type.property-name.json.comments",
 			],
 			"settings": {
 				"foreground": "#ce9178"
